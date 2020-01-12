@@ -10,7 +10,7 @@ layout: home
 We are currently at the stage of submitting Assignment 2.  The only content here at this stage is the team profile.
 
 <h2>Assignment Progress</h2>
-<img src="/assets/progress.svg" style="width:100%;">
+<img src="/Assignment-Two/assets/progress.svg" style="width:100%;">
 
 When assignments 3, 4 and 5 are completed this site will be updated and styled to match the final product design of our project.
 
